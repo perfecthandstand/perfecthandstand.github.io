@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-	background-color: #ffd484b0;
+	background-color: #ffd484;
 	color: #696b67;
 	padding: 20px;
 	text-align: center;
@@ -40,11 +40,11 @@ body {
 }
 
 .footer {
-	background-color: #ffd484b0;
+	background-color: #ffd484;
 	color: #696b67;
 	padding: 15px;
 	text-align: center;
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	width: 100%;
 }
@@ -90,4 +90,5 @@ body {
 .phototext{
     text-align: center;
     font-size: 10px;
+	
 }
